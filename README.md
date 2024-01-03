@@ -284,3 +284,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [23]: http://zadig.akeo.ie/
 [24]: http://support.amd.com/en-us/download
 [25]: http://store.bitcoin.org.pl/support
+
+
